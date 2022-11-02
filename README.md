@@ -12,26 +12,27 @@ Recruiter is a tool to manage job offers and candidates for projects
 
 - Position
 Positions are created by managers from the branch and define:
-- dates
-- profile requirements
-- status
+> dates
+> profile requirements
+> status
 
 - Candidate
 The candidates are able to apply for a given position and define:
-- personal data
-- work experience
-- education
-- languages 
+> personal data
+> work experience
+> education
+> languages 
 
 - Application
 When selecting a position and a candidate we should be able to define:
-- profile match
-- status
-- comments
-- order
-- puntuation
+> profile match
+> status
+> comments
+> order
+> puntuation
 
 ### User profiles
+
 - Candidates
 - Managers
 
